@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\urun satıs\urun satıs\obj\Debug\urun satıs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\urun satıs\urun satıs\obj\Debug\urun satıs.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\urun satıs\urun satıs\obj\Debug\urun_satıs.Form1.resources
+C:\Users\User\source\repos\urun satıs\urun satıs\obj\Debug\urun_satıs.Properties.Resources.resources
+C:\Users\User\source\repos\urun satıs\urun satıs\obj\Debug\urun satıs.csproj.GenerateResource.cache
+C:\Users\User\source\repos\urun satıs\urun satıs\obj\Debug\urun satıs.csproj.CoreCompileInputs.cache
